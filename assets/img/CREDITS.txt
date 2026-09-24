@@ -1,0 +1,12 @@
+﻿Источники фото в assets/img
+============================
+
+dir-men.jpg — Unsplash, https://unsplash.com/photos/man-in-silver-chain-necklace-1X14S8DFa4Y
+dir-postpartum.jpg — Unsplash, https://unsplash.com/photos/smiling-woman-carrying-baby-RWgE9_lKj_Y
+Лицензия Unsplash: бесплатно для коммерческого использования, указание автора не обязательно.
+
+slide-1.jpg, slide-2.jpg — Pexels (присланы заказчиком/разработчиком).
+hair*.mp4 / hair-wide-poster.jpg — Pexels, видео 8956116.
+
+ВНИМАНИЕ: slide-clinic.jpg — ЗАГЛУШКА. На вывеске чужая клиника, фото студии ToLoLo studio.
+Перед публикацией заменить на фото здания клиники.
